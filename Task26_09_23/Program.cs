@@ -64,11 +64,11 @@
             price = 5.0 ;
         }
         else if (isStudent)
-        
+        {
             price = 7.5;
         }
         else
-        
+        {
             price = 10.0;
         }
 
